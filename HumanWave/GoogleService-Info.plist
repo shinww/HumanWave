@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>130688231659-51sr7dmf44leq7maptt6el2cihibqslt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.130688231659-51sr7dmf44leq7maptt6el2cihibqslt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOB5BfxyztW-FFDuwQkDsMKrQQ_oc2YSs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130688231659</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shinwee.HumanWave</string>
+	<key>PROJECT_ID</key>
+	<string>humanwave-e12df</string>
+	<key>STORAGE_BUCKET</key>
+	<string>humanwave-e12df.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130688231659:ios:4c3d26917780c506</string>
+	<key>DATABASE_URL</key>
+	<string>https://humanwave-e12df.firebaseio.com</string>
+</dict>
+</plist>

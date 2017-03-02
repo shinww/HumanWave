@@ -7,21 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C0FC0A91E5AE06B00FC148F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3C0FC0A81E5AE06B00FC148F /* GoogleService-Info.plist */; };
+		3C12149E1E5AAA2600896D9C /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C12149D1E5AAA2600896D9C /* PostCell.swift */; };
+		3C1214A01E5AAB5600896D9C /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C12149F1E5AAB5600896D9C /* CircleView.swift */; };
+		3C1214A41E5AB76900896D9C /* EmailSignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1214A31E5AB76900896D9C /* EmailSignInVC.swift */; };
+		3C14C0411E583F08004799B9 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C14C0401E583F08004799B9 /* Post.swift */; };
+		3C14C0431E5845FC004799B9 /* FeedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C14C0421E5845FC004799B9 /* FeedVC.swift */; };
+		3C1E9C3C1E67DDE300FAB6F9 /* UpperCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1E9C3B1E67DDE300FAB6F9 /* UpperCase.swift */; };
+		3CA27CA71E56BE8C000FFD36 /* RoundTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA27CA61E56BE8C000FFD36 /* RoundTextField.swift */; };
+		3CA27CA91E56BEBB000FFD36 /* RoundBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA27CA81E56BEBB000FFD36 /* RoundBtn.swift */; };
+		3CA27CB11E56EBDD000FFD36 /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA27CB01E56EBDD000FFD36 /* DataServices.swift */; };
+		3CA27CB51E56EF6D000FFD36 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA27CB41E56EF6D000FFD36 /* Constants.swift */; };
 		3CB8BB491E561FFF00DE2E4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB8BB481E561FFF00DE2E4E /* AppDelegate.swift */; };
-		3CB8BB4B1E561FFF00DE2E4E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB8BB4A1E561FFF00DE2E4E /* ViewController.swift */; };
-		3CB8BB4E1E561FFF00DE2E4E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CB8BB4C1E561FFF00DE2E4E /* Main.storyboard */; };
+		3CB8BB4B1E561FFF00DE2E4E /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB8BB4A1E561FFF00DE2E4E /* LoginVC.swift */; };
 		3CB8BB501E561FFF00DE2E4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CB8BB4F1E561FFF00DE2E4E /* Assets.xcassets */; };
 		3CB8BB531E561FFF00DE2E4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CB8BB511E561FFF00DE2E4E /* LaunchScreen.storyboard */; };
+		3CED850D1E5AD68C00C18024 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CED850B1E5AD68C00C18024 /* Main.storyboard */; };
+		51A73C272833441613CB9875 /* Pods_HumanWave.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED7A7163A37816DD0E639776 /* Pods_HumanWave.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F1D1ABDF683992D7543FB7C /* Pods-HumanWave.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HumanWave.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HumanWave/Pods-HumanWave.debug.xcconfig"; sourceTree = "<group>"; };
+		3C0FC0A81E5AE06B00FC148F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		3C12149D1E5AAA2600896D9C /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		3C12149F1E5AAB5600896D9C /* CircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		3C1214A31E5AB76900896D9C /* EmailSignInVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmailSignInVC.swift; sourceTree = "<group>"; };
+		3C14C0401E583F08004799B9 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		3C14C0421E5845FC004799B9 /* FeedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedVC.swift; sourceTree = "<group>"; };
+		3C1E9C3B1E67DDE300FAB6F9 /* UpperCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpperCase.swift; sourceTree = "<group>"; };
+		3CA27CA61E56BE8C000FFD36 /* RoundTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundTextField.swift; sourceTree = "<group>"; };
+		3CA27CA81E56BEBB000FFD36 /* RoundBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundBtn.swift; sourceTree = "<group>"; };
+		3CA27CB01E56EBDD000FFD36 /* DataServices.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
+		3CA27CB41E56EF6D000FFD36 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3CA27CB61E56FC8A000FFD36 /* HumanWave.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HumanWave.entitlements; sourceTree = "<group>"; };
 		3CB8BB451E561FFF00DE2E4E /* HumanWave.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HumanWave.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CB8BB481E561FFF00DE2E4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3CB8BB4A1E561FFF00DE2E4E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		3CB8BB4D1E561FFF00DE2E4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3CB8BB4A1E561FFF00DE2E4E /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		3CB8BB4F1E561FFF00DE2E4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CB8BB521E561FFF00DE2E4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CB8BB541E561FFF00DE2E4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CED850C1E5AD68C00C18024 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		77FDDF01B90E43CD7015BC02 /* Pods-HumanWave.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HumanWave.release.xcconfig"; path = "Pods/Target Support Files/Pods-HumanWave/Pods-HumanWave.release.xcconfig"; sourceTree = "<group>"; };
+		ED7A7163A37816DD0E639776 /* Pods_HumanWave.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HumanWave.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +56,74 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51A73C272833441613CB9875 /* Pods_HumanWave.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04CCAC44498AD62814DD1DE0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED7A7163A37816DD0E639776 /* Pods_HumanWave.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3C14C03F1E583EEF004799B9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3C14C0401E583F08004799B9 /* Post.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		3CA27CA51E56BE6F000FFD36 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3CA27CA61E56BE8C000FFD36 /* RoundTextField.swift */,
+				3CA27CA81E56BEBB000FFD36 /* RoundBtn.swift */,
+				3C12149D1E5AAA2600896D9C /* PostCell.swift */,
+				3C12149F1E5AAB5600896D9C /* CircleView.swift */,
+				3C1E9C3B1E67DDE300FAB6F9 /* UpperCase.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		3CA27CAE1E56CA02000FFD36 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3CB8BB4A1E561FFF00DE2E4E /* LoginVC.swift */,
+				3C14C0421E5845FC004799B9 /* FeedVC.swift */,
+				3C1214A31E5AB76900896D9C /* EmailSignInVC.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		3CA27CAF1E56EBC6000FFD36 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3CA27CB01E56EBDD000FFD36 /* DataServices.swift */,
+			);
+			name = Services;
+			sourceTree = "<group>";
+		};
+		3CA27CB31E56EF4E000FFD36 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3CA27CB41E56EF6D000FFD36 /* Constants.swift */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
 		3CB8BB3C1E561FFE00DE2E4E = {
 			isa = PBXGroup;
 			children = (
 				3CB8BB471E561FFF00DE2E4E /* HumanWave */,
 				3CB8BB461E561FFF00DE2E4E /* Products */,
+				414C0AA133FD953D77E2F47F /* Pods */,
+				04CCAC44498AD62814DD1DE0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +138,29 @@
 		3CB8BB471E561FFF00DE2E4E /* HumanWave */ = {
 			isa = PBXGroup;
 			children = (
+				3C14C03F1E583EEF004799B9 /* Model */,
+				3CA27CB61E56FC8A000FFD36 /* HumanWave.entitlements */,
+				3CA27CB31E56EF4E000FFD36 /* Utilities */,
+				3CA27CAF1E56EBC6000FFD36 /* Services */,
+				3CA27CAE1E56CA02000FFD36 /* Controller */,
+				3CA27CA51E56BE6F000FFD36 /* View */,
 				3CB8BB481E561FFF00DE2E4E /* AppDelegate.swift */,
-				3CB8BB4A1E561FFF00DE2E4E /* ViewController.swift */,
-				3CB8BB4C1E561FFF00DE2E4E /* Main.storyboard */,
+				3CED850B1E5AD68C00C18024 /* Main.storyboard */,
 				3CB8BB4F1E561FFF00DE2E4E /* Assets.xcassets */,
 				3CB8BB511E561FFF00DE2E4E /* LaunchScreen.storyboard */,
 				3CB8BB541E561FFF00DE2E4E /* Info.plist */,
+				3C0FC0A81E5AE06B00FC148F /* GoogleService-Info.plist */,
 			);
 			path = HumanWave;
+			sourceTree = "<group>";
+		};
+		414C0AA133FD953D77E2F47F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2F1D1ABDF683992D7543FB7C /* Pods-HumanWave.debug.xcconfig */,
+				77FDDF01B90E43CD7015BC02 /* Pods-HumanWave.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +170,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3CB8BB571E561FFF00DE2E4E /* Build configuration list for PBXNativeTarget "HumanWave" */;
 			buildPhases = (
+				2F96D92C79A57F6B1962CFCB /* [CP] Check Pods Manifest.lock */,
 				3CB8BB411E561FFE00DE2E4E /* Sources */,
 				3CB8BB421E561FFE00DE2E4E /* Frameworks */,
 				3CB8BB431E561FFE00DE2E4E /* Resources */,
+				1B14D61F9DACB0CFDFD86D73 /* [CP] Embed Pods Frameworks */,
+				75DD9BCA27B85F3B9F2E0F3F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,7 +198,13 @@
 				TargetAttributes = {
 					3CB8BB441E561FFE00DE2E4E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 687KYKCJ82;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -125,39 +233,98 @@
 			files = (
 				3CB8BB531E561FFF00DE2E4E /* LaunchScreen.storyboard in Resources */,
 				3CB8BB501E561FFF00DE2E4E /* Assets.xcassets in Resources */,
-				3CB8BB4E1E561FFF00DE2E4E /* Main.storyboard in Resources */,
+				3CED850D1E5AD68C00C18024 /* Main.storyboard in Resources */,
+				3C0FC0A91E5AE06B00FC148F /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1B14D61F9DACB0CFDFD86D73 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HumanWave/Pods-HumanWave-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2F96D92C79A57F6B1962CFCB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		75DD9BCA27B85F3B9F2E0F3F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HumanWave/Pods-HumanWave-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3CB8BB411E561FFE00DE2E4E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3CB8BB4B1E561FFF00DE2E4E /* ViewController.swift in Sources */,
+				3CA27CB11E56EBDD000FFD36 /* DataServices.swift in Sources */,
+				3CB8BB4B1E561FFF00DE2E4E /* LoginVC.swift in Sources */,
+				3C14C0411E583F08004799B9 /* Post.swift in Sources */,
+				3CA27CA91E56BEBB000FFD36 /* RoundBtn.swift in Sources */,
+				3C14C0431E5845FC004799B9 /* FeedVC.swift in Sources */,
+				3C12149E1E5AAA2600896D9C /* PostCell.swift in Sources */,
+				3C1214A01E5AAB5600896D9C /* CircleView.swift in Sources */,
+				3CA27CA71E56BE8C000FFD36 /* RoundTextField.swift in Sources */,
 				3CB8BB491E561FFF00DE2E4E /* AppDelegate.swift in Sources */,
+				3CA27CB51E56EF6D000FFD36 /* Constants.swift in Sources */,
+				3C1E9C3C1E67DDE300FAB6F9 /* UpperCase.swift in Sources */,
+				3C1214A41E5AB76900896D9C /* EmailSignInVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		3CB8BB4C1E561FFF00DE2E4E /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3CB8BB4D1E561FFF00DE2E4E /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		3CB8BB511E561FFF00DE2E4E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				3CB8BB521E561FFF00DE2E4E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		3CED850B1E5AD68C00C18024 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3CED850C1E5AD68C00C18024 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -258,8 +425,11 @@
 		};
 		3CB8BB581E561FFF00DE2E4E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F1D1ABDF683992D7543FB7C /* Pods-HumanWave.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HumanWave/HumanWave.entitlements;
+				DEVELOPMENT_TEAM = 687KYKCJ82;
 				INFOPLIST_FILE = HumanWave/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shinwee.HumanWave;
@@ -270,8 +440,11 @@
 		};
 		3CB8BB591E561FFF00DE2E4E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 77FDDF01B90E43CD7015BC02 /* Pods-HumanWave.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HumanWave/HumanWave.entitlements;
+				DEVELOPMENT_TEAM = 687KYKCJ82;
 				INFOPLIST_FILE = HumanWave/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shinwee.HumanWave;
@@ -299,6 +472,7 @@
 				3CB8BB591E561FFF00DE2E4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
